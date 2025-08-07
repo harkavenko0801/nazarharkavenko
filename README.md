@@ -1,91 +1,81 @@
-# 👋 Hi, I'm Nazar Harkavenko
+# Nazar Harkavenko
 
-### 💻 Full Stack JavaScript Engineer | React | Node.js | Next.js | Express | AWS
-
-📍 Wronki, Poland  
-📫 nazarharkavenko08@gmail.com  
+**Full Stack JavaScript Engineer**  
+React • Node.js • Next.js • Express • AWS  
+_Wronki, Poland_  
+📫 **nazarharkavenko08@gmail.com**  
 🔗 [LinkedIn](https://linkedin.com/in/nazar-harkavenko)
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-I'm a Full Stack Software Engineer with **8+ years of experience** delivering secure, scalable, and high-performance web applications across **fintech, real estate**, and **enterprise** domains.
+Experienced Full Stack Engineer with 8+ years building scalable, secure, and user-focused web applications across fintech, real estate, and enterprise sectors.
 
-I specialize in **modern JavaScript ecosystems** — React, Node.js, TypeScript — and build everything from high-traffic client portals to robust backend APIs. I focus on writing clean, testable code, building developer-friendly tools, and deploying to scalable cloud platforms like **AWS** and **Azure**.
+I specialize in modern JavaScript ecosystems — React, Node.js, TypeScript — and deliver clean, testable, cloud-ready solutions. My recent work includes building:
 
-I’ve led the development of:
-- Multilingual property management websites
-- Internal DevEx platforms using Backstage
-- Merchant portals with real-time analytics
+- A bilingual real estate platform with headless CMS and dynamic routing
+- An internal developer portal (Backstage) with CI/CD integrations and RBAC
+- Real-time analytics tools for merchant transactions
 
-Currently working on modern, modular, multilingual platforms powered by **React, Tailwind, GraphQL,** and **headless CMS** technologies.
+I emphasize architecture, developer experience, accessibility, and performance.
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 
 **Frontend**  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)  
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)  
-![Headless UI](https://img.shields.io/badge/-Headless%20UI-black?style=flat-square&logo=headlessui)
+React, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, Headless UI, HTML5, CSS3
 
 **Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)  
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)  
-![Apollo Server](https://img.shields.io/badge/-Apollo%20Server-black?style=flat-square&logo=apollographql)  
-![WebSockets](https://img.shields.io/badge/-WebSockets-black?style=flat-square&logo=websocket)
+Node.js, Express.js, GraphQL, Apollo Server, REST APIs, JWT, WebSockets, Socket.IO
 
 **Databases**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)  
-![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
+PostgreSQL, MongoDB, Redis, Prisma ORM, Mongoose
 
-**DevOps & Cloud**  
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)  
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)  
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions)  
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-black?style=flat-square&logo=gitlab)
+**Cloud & DevOps**  
+AWS (Lambda, ECS, API Gateway), Vercel, Docker, GitHub Actions, GitLab CI
 
-**Testing & Tools**  
-![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)  
-![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)  
-![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint)  
-![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=prettier)  
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+**Tools & Testing**  
+Jest, Cypress, ESLint, Prettier, Postman, Figma, Agile/Scrum
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Experience
 
-![Nazar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazarharkavenko&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazarharkavenko&layout=compact&theme=radical)
+**Senior Software Engineer** — Dev.Pro | *Remote / Las Vegas, NV*  
+*Jan 2023 – Jul 2025*  
+- Rebuilt a bilingual property management website (EN/FR), improving load times by 80%  
+- Developed accessible, responsive components using React, TypeScript, Tailwind  
+- Integrated headless CMS, SEO automation, image optimization with Vercel pipeline  
+
+**Software Engineer** — Infosys Ltd | *Texas, USA*  
+*May 2020 – Dec 2022*  
+- Built internal Developer Experience Portal with Backstage, CI/CD, and SSO (Okta OAuth)  
+- Created scalable frontends and secure Node.js plugins for service integrations  
+- Deployed AWS ECS services via Docker and Terraform  
+
+**Full Stack Developer** — Nexi Group | *Warsaw, Poland*  
+*Jun 2017 – Apr 2020*  
+- Built a React + TypeScript merchant portal with real-time payment analytics  
+- Implemented secure OAuth2/JWT-based auth and robust backend services in Node.js  
+- Automated pipelines using Azure DevOps and monitored with Grafana & App Insights  
+
+---
+
+## 🎓 Education
+
+**BSc in Computer Science**  
+University of Warsaw | *2013 – 2017*
 
 ---
 
-## 📌 Projects Highlights
+## 🤝 Let’s Connect
 
-Coming soon: I'm curating case studies and walkthroughs for several of my featured projects — stay tuned! 🚧
-
----
-
-## 🎯 Fun Fact
-
-I love building tools that make other developers more productive, and I’m always chasing that sweet spot between clean design, performance, and DX.
+📬 **Email**: nazarharkavenko08@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/nazar-harkavenko](https://linkedin.com/in/nazar-harkavenko)
 
 ---
 
-## 🌐 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nazar-harkavenko)  
-📫 Email me: nazarharkavenko08@gmail.com
-
----
+> *“Code should be as elegant as it is functional — because we write it for humans first.”*
 
